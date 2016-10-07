@@ -1,5 +1,7 @@
 ##antiscrape.js
 
+![antiscrape.png]()
+
 A lightweight, easy Javascript file to protect your email and phone number from simple to moderately advanced web scrapers. 
 While it is nearly impossible to 100% protect your website from scrapers, although strong protection could be created
 using server honeypots or more involved access rules, this Javascript file is a simple approach to give a small, albeit
@@ -77,7 +79,7 @@ This is bait for the web scraper.
 
 Add Javascript into the file to automatically convert it on page-load for a normal user. This can be done in two ways. A raw
 string conversion for whatever your framework's needs can be found by simply calling decrypt on the string. This implies you
-feed it the string through Javascript. Ie: 
+feed the string through Javascript. Ie: 
 
 ```JS
 realemail = igotthekeys.decrypt("njvqhxn@gmail.com", "email");
