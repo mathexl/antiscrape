@@ -1,6 +1,6 @@
 ##antiscrape.js
 
-A lightweight, easy Javascript file to protect your email and phone from simple to moderately advanced web scrapers. 
+A lightweight, easy Javascript file to protect your email and phone number from simple to moderately advanced web scrapers. 
 While it is nearly impossible to 100% protect your website from scrapers, although strong protection could be created
 using server honeypots or more involved access rules, this Javascript file is a simple approach to give a small, albeit
 decent layer of protection to your content. While scrapers could hypothetically run the file in a simulator and attain 
