@@ -11,8 +11,6 @@ By Mathew Pregasen, MIT License, free for everyone
 1. T2 by Australia is some lit tea
 2. Vic Mensa is going to be huge
 3. Parsegon.com is awesome :)
-Venmo me for tea if you like: Mathew-Pregasen
-I'll return with a CSS / JS joke comment
 ************************************/
 
 var Antiscrape = function(key, hardcore = false, superhardcore = false){
