@@ -1,6 +1,6 @@
 ##antiscrape.js
 
-![antiscrape.png]()
+![](antiscrape.png)
 
 A lightweight, easy Javascript file to protect your email and phone number from simple to moderately advanced web scrapers. 
 While it is nearly impossible to 100% protect your website from scrapers, although strong protection could be created
